@@ -1,8 +1,12 @@
 # ClinicSys - Sistema de Gestão Médica
 UNIVERSIDADE VEIGA DE ALMEIDA
+
 ALUNO: MATHEUS MARCELLUS DE SOUZA SILVEIRA
+
 MATRÍCULA: 1240202634
+
 DISCIPLINA: DESENVOLVIMENTO BACKEND-I
+
 TUTOR: ANDRE LUIZ BRAGA
 
 
@@ -51,6 +55,7 @@ npm run dev
 3. Acesse: http://localhost:3000
 
 Login de Teste
+
 Email: teste@email.com
 
 Senha: 123456
@@ -72,4 +77,5 @@ Interface responsiva
 # Deploy
 
 Frontend: https://Matheusmarcellus.github.io/sistema-clinica-medica
+
 Repositório: https://github.com/Matheusmarcellus/sistema-clinica-medica
