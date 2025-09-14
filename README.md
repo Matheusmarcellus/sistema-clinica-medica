@@ -1,4 +1,10 @@
 # ClinicSys - Sistema de Gestão Médica
+UNIVERSIDADE VEIGA DE ALMEIDA
+ALUNO: MATHEUS MARCELLUS DE SOUZA SILVEIRA
+MATRÍCULA: 1240202634
+DISCIPLINA: DESENVOLVIMENTO BACKEND-I
+TUTOR: ANDRE LUIZ BRAGA
+
 
 Sistema completo para clínicas médicas com agendamento de consultas e autenticação de usuários.
 
@@ -65,5 +71,5 @@ Interface responsiva
 
 # Deploy
 
-Frontend: https://seu-usuario.github.io/sistema-clinica-medica
+Frontend: https://Matheusmarcellus.github.io/sistema-clinica-medica
 Repositório: https://github.com/Matheusmarcellus/sistema-clinica-medica
